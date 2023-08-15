@@ -1,5 +1,9 @@
 ### Olá! Eu sou o Thevis 🖐️
 
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thevis-cardoso)
+
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cardoso_ts07?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)
+
 ![Thevis-07 GitHub stats](https://github-readme-stats.vercel.app/api?username=Thevis-07&show_icons=true&theme=transparent)
 
 ## Tecnologias que uso no meu dia a dia
