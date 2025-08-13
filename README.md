@@ -51,7 +51,6 @@
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/-DBeaver-372923?style=flat-square&logo=dbeaver&logoColor=white" />
 <img src="https://img.shields.io/badge/-Mongo%20Compass-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
 </td>
 
 </tr>
