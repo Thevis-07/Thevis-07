@@ -4,7 +4,7 @@
 ---
 
 <p align="center"><i>"A tempestade que vai passar, ninguém sabe, e aqui foi tanta tempestade que a gente aprendeu a dançar na chuva"</i></p>
-<p align="center">— Hundria</p>
+<p align="center">— Hungria</p>
 
 ---
 
