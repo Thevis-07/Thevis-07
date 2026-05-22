@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋 Eu sou o Thevis</h1>
-<h3 align="center">Desenvolvedor Backend | C# | .NET | Java | Spring Boot</h3>
+<h3 align="center">Desenvolvedor Backend | C# | .NET | Node.js | Cloud</h3>
 
 ---
 
@@ -10,11 +10,12 @@
 
 ## 📌 Sobre mim
 💻 Desenvolvedor com foco em **Backend**, criando soluções escaláveis e resilientes.  
-🚀 Experiência sólida com **C# (.NET)** e em consolidação de  **Java (Spring Boot)**.  
+🚀 Experiência sólida com **C# (.NET)**, meu foco principal.  
 ⚡ Trabalho com arquiteturas modernas utilizando **mensageria (Kafka, RabbitMQ)** e **microsserviços**.  
 🗄️ Atuação com bancos **PostgreSQL**, **MySQL**, **MongoDB** e **Oracle**.  
 🌐 Também desenvolvo interfaces com **React.js** e **React Native (Expo)**.  
 🔌 Experiência com **Arduino** e automações.  
+☕ Conhecimento adicional em **Java (Spring Boot)**.  
 🎯 Em constante aprendizado e movido por novos desafios.
 
 ---
@@ -30,8 +31,6 @@
 <b>💻 Backend</b><br><br>
 <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/-Entity%20Framework%20Core-512BD4?style=flat-square" />
 <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
 <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
@@ -73,6 +72,15 @@
 <img src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+</td>
+
+</tr>
+<tr>
+
+<td align="center" colspan="3">
+<b>📚 Conhecimento Adicional</b><br><br>
+<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
 </td>
 
 </tr>
