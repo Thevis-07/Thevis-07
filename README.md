@@ -10,7 +10,7 @@
 
 ## 📌 Sobre mim
 💻 Desenvolvedor com foco em **Backend**, criando soluções escaláveis e resilientes.  
-🚀 Experiência sólida com **C# (.NET)**, meu foco principal.  
+🚀 Experiência com **C# (.NET)**.  
 ⚡ Trabalho com arquiteturas modernas utilizando **mensageria (Kafka, RabbitMQ)** e **microsserviços**.  
 🗄️ Atuação com bancos **PostgreSQL**, **MySQL**, **MongoDB** e **Oracle**.  
 🌐 Também desenvolvo interfaces com **React.js** e **React Native (Expo)**.  
